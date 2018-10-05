@@ -1,0 +1,65 @@
+# Fill in, commit and push each day.
+# Group Member: Vladyslava Diachenko
+
+Nov 22, 2017
+	Yesterday : No assignment posted.
+	Today     : No assignment posted.
+	Obstacles : No obstacles.
+
+Nov 23, 2017
+	Yesterday : No work done.
+	Today     : Go through assignment. 
+	Obstacles : No obstacles.
+
+Nov 24, 2017
+	Yesterday : Read the assignment. Divided the work. 
+	Today     : No work done. 
+	Obstacles : No obstacles. 
+
+
+Nov 25, 2017
+	Yesterday : No work done.
+	Today     : Research how to implement load.
+	Obstacles : No obstacles. 
+
+Nov 26, 2017
+	Yesterday : Planned on possible implementation of load. 
+	Today     : Think of how to implement the 7.11 question.
+	Obstacles : No obstacles. 
+	
+Nov 27, 2017
+	Yesterday : Came up with an idea for 7.11 question.
+	Today     : Finish Q1 and Q2. 
+	Obstacles : No obstacles. 
+	
+Nov 28, 2017
+	Yesterday : Finished Q1 and Q2 for Part 2.
+	Today     : Clean the code for 7-11 problem.
+	Obstacles : No obstacles. 
+	
+Nov 29, 2017
+	Yesterday : Finished Q1, Q2. Q2 might need future modification.
+	Today     : Start implementing load, start doing regex.
+	Obstacles : No obstacles.
+
+Nov 30, 2017
+	Yesterday : Started doing regex for parsing load file.
+	Today     : Finish the regex. 
+	Obstacles : No obstacles.
+
+Dec 1, 2017
+	Yesterday : Finished regex, started implementing cases.
+	Today     : Continue working on load.  
+	Obstacles : Parsing the file.
+	
+Dec 2, 2017
+	Yesterday : Worked on imlementing load.
+	Today     : Finish load, run the test cases. 
+	Obstacles : Skipping the empty lines in the file.
+
+Dec 3, 2017
+	Yesterday : Finished load, there are 2 JUinit cases that failed.
+	Today     : Fix all the bugs for load, add more JUnit Test for Load. Possibly modify Q2. Submit A3.
+	Obstacles : Modifying Q2,so it works for similar problems and not only 7.11
+
+	

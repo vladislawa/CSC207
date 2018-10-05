@@ -1,0 +1,13 @@
+Paint Save File Version 1.0
+Rectangle
+	color:176,100,213
+	filled:false
+	p1:(71,69)
+	p2:(242,175)
+End Rectangle
+Circle
+	filled:true
+	center:(32,122)
+	radius:30
+End Circle
+End Paint Save File

@@ -1,0 +1,66 @@
+# Fill in, commit and push each day.
+# Group Member: Jinisha Shah
+
+Nov 22, 2017
+	Yesterday : Assignment 3 not posted.
+	Today     : No work to be done as assignment not posted.
+	Obstacles : None.
+
+Nov 23, 2017
+	Yesterday : No work was done.
+	Today     : Assignment 3 posted. Go through assignment 3 handout. Roughly figure out how to handle parts
+				of assignment 3.
+	Obstacles : None.
+
+Nov 24, 2017
+	Yesterday : Went through assignment handout. Added my information to members.txt.
+	Today     : Divide the user stories among group members. Start working on user story 3.1 - save.
+	Obstacles : None.
+
+Nov 25, 2017
+	Yesterday :No work was pushed. Planned how to implement user story 3.1.
+	Today     :Finish user story 3.1. Start working on floating point part of assignment.
+	Obstacles : How to get the \n within string to insert new line in notepad.
+
+Nov 26, 2017
+	Yesterday :Finished user story 3.1 -save. Watched videos and went over lecture notes about floating
+				point representation to help with second part of the assignment.
+	Today     :Start and finish q3 from part 2 of the assignment.
+	Obstacles :None.
+	
+Nov 27, 2017
+	Yesterday :Started working on q3.
+	Today     :Continue working on q3. Try to finish q3 by tonight.
+	Obstacles :Not completely sure how to implement each method of q3. Still trying to figure it out.
+	
+Nov 28, 2017
+	Yesterday :Not much was done for q3, so no work was pushed.
+	Today     :Finish most of q3.
+	Obstacles :How to implement machine epsilon and calculate the exponent part.
+	
+Nov 29, 2017
+	Yesterday :Went over IEE754 lecture notes again. Added some code to PaintSaveFileParser for load. Nothing else was done.
+	Today     :Continue working on q3. Most probably finish it.
+	Obstacles :How to implement overflow method.
+
+Nov 30, 2017
+	Yesterday :Finished two methods of q3 and started work on overflow method.
+	Today     :Finish the other two methods i.e. overflow and bin_rep.
+	Obstacles :How to implement maximum mantissa in overflow method.
+
+Dec 1, 2017
+	Yesterday :Worked more on methods overflow and bin_rep. Made changes to user story 3.1 i.e. the save file method.
+	Today     :Continue working on q3.
+	Obstacles :How to implement maximum mantissa and figure out what normalized and denormalized numbers are.
+	
+Dec 2, 2017
+	Yesterday :Finished most part of bin_rep method and also completed maximum exponent part in overflow method.
+	Today     :Finish q3 entirely. Go over rest of the assignment parts to check if everything is complete.
+	Obstacles :How to not hit infinity in the beginning of maximum mantissa calculation.
+
+Dec 3, 2017
+	Yesterday :Finished q3.
+	Today     :Go through the assignment and check if everything works properly. Make changes to product backlog. Submit A3.
+	Obstacles :None.
+
+	

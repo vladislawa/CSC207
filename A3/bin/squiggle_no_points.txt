@@ -1,0 +1,8 @@
+Paint Save File Version 1.0
+Squiggle
+	color:206,104,233
+	filled:false
+	points
+	end points
+End Squiggle
+End Paint Save File

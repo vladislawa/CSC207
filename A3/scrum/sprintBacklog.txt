@@ -1,0 +1,9 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 November 22, 2016
+# Sprint 1 Backlog UserStories go below
+- User Story 3.1 - Save Feature
+- Part 2 - Q1, Q2, Q3
+- User Story 3.2 - Load a Saved File
