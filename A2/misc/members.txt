@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+# Please leave your contact information here
+
+Member 1:
+Name: Vladyslava Diachenko
+Email: vladyslava.diachenko@mail.utoronto.ca
+
+Member 2:
+Name: Jinisha Shah
+Email: jinisha.shah@mail.utoronto.ca
+
+Member 3:
+Name:Ikechukwu Eze (Ike)
+Email:ikechukwu.eze@mail.utoronto.ca
+
+Member 4:
+Name: Omar Kozachi
+Email: omar.kozachi@mail.utoronto.ca
+>>>>>>> refs/remotes/origin/addMemberVladyslavaDiachenko

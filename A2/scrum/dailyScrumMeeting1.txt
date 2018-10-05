@@ -1,0 +1,147 @@
+# Fill in, commit and push each day.
+# Group Member: Vladyslava Diachenko
+
+	PART 1
+-------------------------------------------------------------
+
+Oct 23, 2017
+	Yesterday : No A2 was posted.
+	Today     : Fill the members.txt file. Read through the A2.
+	Obstacles : Getting used to modify my branch and merge it.
+
+Oct 24, 2017
+	Yesterday : Filled the members.txt. Read through the parts of A2.
+	Today     : Meet with the team and distribute the work between team members. Start working on my user story (DRAW RECTANGLE).
+				Also, if possible fill the part of sprint and product backlogs.  
+	Obstacles : Resolving git conflicts. 
+
+Oct 25, 2017
+	Yesterday : Started working on Draw Rectangle. 
+	Today     : Continue working on drawing rectangle, make the user see the rectangle as he/she drags the mouse.
+	Obstacles : No obstacles.
+
+Oct 26, 2017
+	Yesterday : Finished working on the rectangle + made possible for user to see the circle as he/she drags the mouse. 
+	Today     : Break (preparing for 207 midterm) + thinking on the next user story to implement.
+	Obstacles : It was not made clear in the lab that we have to create branches for each user story. 
+				Also, cannot draw a rectangle backwards.
+
+Oct 27, 2017
+	Yesterday : Break. No work done.
+	Today     : Break (preparing for 207 midterm).
+	Obstacles : No obstacles.
+
+Oct 28, 2017
+	Yesterday : Break. No work done.
+	Today     : Start working on implementing the menu bars. 
+	Obstacles : No obstacles.
+
+Oct 29, 2017
+	Yesterday : Implemented Save file User Story under JMenu branch. 
+	Today     : Help to implement Line thickness selector user story.
+	Obstacles : Being able to choose different thickness for each shape.
+
+Oct 30, 2017
+	Yesterday : Helped to implement Line thickness selector user story.
+	Today     : Try to solve Line thickness selector problem (unable to select a different thickness for each shape).
+				Communicate with group on which user is available. Pick a user story and start working on it.
+	Obstacles : Being able to choose different thickness for each shape.
+
+Oct 31, 2017
+	Yesterday : Picked a new user story - CutCopyPaste.
+	Today     : Start implementing code for the Cut part.
+	Obstacles : Not sure where to start.
+
+Nov 1, 2017
+	Yesterday : Was not able to implement Cut. 
+	Today     : Continue working on CutCopyPaste. Think about the ways to implement it. 
+	Obstacles : Will need to add Selection button for CutCopyPaste.
+	
+Nov 2, 2017
+	Yesterday : Stopped working on CutCopyPaste (havent completed).
+	Today     : Work on EyeDropper user story and make New File work (Open file if possible).
+	Obstacles : Writing image when Opening a file.
+	
+Nov 3, 2017
+	Yesterday : Finished EyeDropper user story.
+	Today     : Change Line thickness to slider. 
+	Obstacles : Cannot figure out how to make open file write the image.
+
+Nov 4, 2017
+	Yesterday : Changed Line thickness to slider. Implemented additional 
+				user story 24 (displays a button name when hover over a button).
+	Today     : Work on Open file user story.
+	Obstacles : No obstacles at this point.
+
+Nov 5, 2017
+	Yesterday : Finished Open file user story. 
+	Today     : Test Paint, fix minor issues (e.g. set preferred size for buttons).
+	Obstacles : Z-order bug wasn`t fixed for this part.
+	
+	PART 2
+-------------------------------------------------------------
+	
+
+Nov 6, 2017
+	Yesterday : Submitted Assignment 2 Part 1.
+	Today     : Read through Part 2, talk to other team members about dividing work.
+	Obstacles : No obstacles at this point.
+	
+Nov 7, 2017
+	Yesterday : Read through the product backlog 2. No work done.
+	Today     : No work planned. 
+	Obstacles : No obstacles at this point.
+	
+Nov 8, 2017
+	Yesterday : No work done.
+	Today     : Talk to the group, divide user stories. 
+	Obstacles : No obstacles at this point.
+	
+Nov 9, 2017
+	Yesterday : Each member was assigned a user story (bug).
+	Today     : Look through what needs to be done for Bug 2.3.
+	Obstacles : No obstacles at this point.
+	
+Nov 10, 2017
+	Yesterday : Read through the product backlog 2 (bug 2.3).
+	Today     : Start thinking how to fix the bug. Possibly start implementing.
+	Obstacles : Figure out how to fix the bug.
+	
+Nov 11, 2017
+	Yesterday : Researched more about Factory design pattern.
+	Today     : Start fixing the bug. Create a separate class for buttons (with Factory design pattern).
+				which will substitute the current one.
+	Obstacles : Figure out how to fix the bug.
+	
+Nov 12, 2017
+	Yesterday : Created a class for buttons (with Factory design pattern).
+	Today     : Research more on how to implement a factory pattern. Team meeting on Monday.
+	Obstacles : Figure out how to fix the bug.
+
+Nov 13, 2017
+	Yesterday : Researched about a factory pattern. 
+	Today     : Make progress in fixing bug 2.3. Implement Undo user story.
+	Obstacles : Getting errors when fixing the bug.
+
+Nov 14, 2017
+	Yesterday : Made progress with 2.3. Implemented Undo.
+	Today     : Submit the assignment. 
+	Obstacles : No obstacles.
+	
+Nov 15, 2017
+	Yesterday : Submit the assignment. 
+	Today     : Implement Emoji and Delete, Cut. 
+	Obstacles : No obstacles.
+	
+Nov 16, 2017
+	Yesterday : Implemented Emoji and Delete, Cut. 
+	Today     : Resubmit assignment. 
+	Obstacles : No obstacles.
+
+
+
+	
+	
+	
+	
+	

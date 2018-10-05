@@ -1,0 +1,152 @@
+# Fill in, commit and push each day.
+# Group Member: Omar Kozachi
+
+Oct 23, 2017
+	Yesterday : A2 was not posted.
+	Today     : Edit members.txt and add my information.
+<<<<<<< HEAD
+	Obstacles : Understanding how my branch and the master branch are supposed to work.
+=======
+	Obstacles : Understanding how my branch and the master branch work.
+>>>>>>> branch 'Omar_Kozachi' of https://mcsscm.utm.utoronto.ca/git/207/repo_a2_EzeBreeze.git
+
+Oct 24, 2017
+<<<<<<< HEAD
+	Yesterday : Edited members.txt and added my information.
+	Today     : Chosen to do the ColorChooserPanel.
+	Obstacles : None.
+=======
+	Yesterday : Edited members.txt and add my information.
+	Today     : I will start to work on my assigned class (ColorChooserPanel).
+	Obstacles :
+>>>>>>> branch 'Omar_Kozachi' of https://mcsscm.utm.utoronto.ca/git/207/repo_a2_EzeBreeze.git
+
+Oct 25, 2017
+	Yesterday : Chosen to do the ColorChooserPanel.
+	Today     : Start to work on ColorChooserPanel, by creating the class and adding some buttons.
+	Obstacles : Getting the color to change requires me to understand the code, which is what I am 
+				still trying to get.
+
+Oct 26, 2017
+	Yesterday : Added the color buttons.
+	Today     : No work to be done today because of the midterm.
+	Obstacles : None.
+
+Oct 27, 2017
+	Yesterday : No work done.
+	Today     : No work to be done today because of the midterm.
+	Obstacles : None.
+
+Oct 28, 2017
+	Yesterday : No work done.
+	Today     : Add functionality to the colors. Afterwards, help fix Jinisha's icon buttons issue.
+	Obstacles : Had issues trying to give user access to selecting the drawing color. Also had
+				trouble with fixing the icon buttons issue, but was able to provide a temporary
+				fix. Will fix it fully later.
+
+Oct 29, 2017
+	Yesterday : Added functionality to the color buttons, but the user still can't select the
+				colors of the shapes.
+	Today     : No work to be done today because of the CSC290 midterm.
+	Obstacles : None.
+
+Oct 30, 2017
+	Yesterday : No work done.
+	Today     : Fix the issue of not being able to give user the ability to select the colors 
+				of the shapes being drawn.
+	Obstacles : User can't change the colors to be used by the shapes as it recolors the 
+				previously drawn shapes as well as the new ones.
+
+Oct 31, 2017
+	Yesterday : Gave the user the ability to select colors, but they still cannot change them properly.
+	Today     : Fix the issue of not being able to give user the ability to change the colors 
+				of the shapes being drawn.
+	Obstacles : Still can't work out how to not change the previously drawn shapes' colors.
+
+Nov 1, 2017
+	Yesterday : Thought about how to give the user the ability to change the colors of the shapes properly.
+	Today     : Finish the Color selector user story.
+	Obstacles : There is one bug that needs to be addressed with Color selector.
+	
+Nov 2, 2017
+	Yesterday : Finished the Color selector user story.
+	Today     : Fix the Color selector user story and finish the LineThickness
+				user story.
+	Obstacles : None.
+	
+Nov 3, 2017
+	Yesterday : Fixed the Color Selector user story and finished the LineThickness user story.
+	Today     : Not much work to be done because of another assignment, but to at least start working 
+				on the Color selector panel.
+	Obstacles : Will have to revamp the design of the paint program by trying to use GridBagLayout instead
+				of BorderLayout and see if it can give me more control over the design layout. 
+
+Nov 4, 2017
+	Yesterday : Tried to edit the Color selector panel with no success.
+	Today     : Fix the Color selector panel and Thickness panel.
+	Obstacles : None.
+
+Nov 5, 2017
+	Yesterday : Was able to fix the Color selector panel and Thicnkess panel without revamping the design
+				of the paint program.
+	Today     : Fix BUG 7, New Panel Anytime, and Quit Anytime.
+	Obstacles : Wasn't able to fix BUG 7 fully for the Square shape.
+	
+Nov 6, 2017
+	Yesterday : Finished Assignment 2 Part 1
+	Today     : Received Assignment 2 Part 2.
+	Obstacles : None.
+	
+Nov 7, 2017
+	Yesterday : Received Assignment 2 Part 2.
+	Today     : No work to be done.
+	Obstacles : None.
+	
+Nov 8, 2017
+	Yesterday : No work was done.
+	Today     : Divide user stories among group members and get assigned a user story.
+	Obstacles : None.
+	
+Nov 9, 2017
+	Yesterday : Divided user stories and I was assigned Bug 2.4.
+	Today     : No work to be done.
+	Obstacles : None.
+	
+Nov 10, 2017
+	Yesterday : No work was done.
+	Today     : Go through the assignment 2 part 2 requirements for Bug 2.4.
+	Obstacles : None.
+	
+Nov 11, 2017
+	Yesterday : Went through the assignment 2 part 2 requirements for Bug 2.4.
+	Today	  : Start working on creating ShapeManipulatorStrategy and ShapeNamipulatorStrategies.
+	Obstacles : Couldn't do much coding as I was still trying to figure out what the bug is about, 
+				and I did. I now know what to do with ShapeManipulatorStrategy and the shape classes
+				implementing it.
+	
+Nov 12, 2017
+	Yesterday : Understood what I had to do for Bug 2.4.
+	Today	  : No work to be done.
+	Obstacles : None.
+	
+Nov 13, 2017
+	Yesterday : No work was done.
+	Today	  : Finish fixing Bug 2.4 and implement Redo feature.
+	Obstacles : Couldn't finish fixing Bug 2.4 as I need to add in
+				my team's changes to the listeners in PaintPanel
+				to my listeners in the 'Shape'Strategies classes.
+	
+Nov 14, 2017
+	Yesterday : Almost fixed Bug 2.4 and implemented Redo feature.
+	Today	  : To fix Bug 2.4, implement Select user story, and submit assignment.
+	Obstacles : None.
+	
+Nov 15, 2017
+	Yesterday : Fixed Bug 2.4, implemented Select user story, and submitted assignment.
+	Today     : Fix shape issues and implement About.
+	Obstacles : Couldn't fix the interaction between Undo and Select.
+	
+Nov 16, 2017
+	Yesterday : Fixed Bug 2.4, implemented Select user story, and submitted assignment.
+	Today     : Fix the interaction between Undo and Select, and resubmit assignment.
+	Obstacles : None.

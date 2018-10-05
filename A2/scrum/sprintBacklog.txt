@@ -1,0 +1,66 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+PART 1
+-------------------------------------------------------------
+
+# Sprint 1 October 23, 2017
+# Sprint 1 Backlog UserStories go below
+ - USER STORY 2 - Draw Circle Feedback
+ - USER STORY 3 - Draw Rectangle
+ - USER STORY 4 - Draw Rectangle Feedback
+ - USER STORY 5 - Color Selector
+ - USER STORY 8 - Draw Square
+ - USER STORY 9 - Draw Square Feedback
+ - USER STORY 10 - Draw Polyline
+ - USER STORY 11 - Draw Polyline Feedback
+ 
+ # Sprint 2 October 26, 2017
+ # Sprint 2 Backlog UserStories go below
+ - USER STORY 5 - Color Selector
+ - USER STORY 11 - Draw Polyline Feedback
+ - USER STORY 7 - Line Thickness Selector
+ - BUG 1 - Icons instead of text for drawing mode selection
+ - BUG 2 - Drawing selection mode not indicated
+ - USER STORY 16 - Save Panel Anytime
+ - USER STORY 14 - New Panel Anytime
+ - USER STORY 15 - Quit Panel Anytime
+ - USER STORY 12 - Cut, Copy, Paste
+ 
+ # Sprint 3 October 31, 2017
+ # Sprint 3 Backlog UserStories go below
+ - USER STORY 7 - Line Thickness Selector
+ - USER STORY 11 - Draw Polyline Feedback
+ - BUG 2 - Drawing selection mode not indicated
+ - USER STORY 6 - Fill Style Selector
+ - USER STORY 18 - Color Picker
+ - USER STORY 21 - Draw Squiggle
+ - BUG 5 - Squiggle is broken
+ - BUG 6 - Circle drawing is broken
+ - USER STORY 18 - Color Picker
+ - USER STORY 19 - Eraser
+ - USER STORY 20 - Text Tool
+ - USER STORY 17 - Open Panel Anytime
+ - USER STORY 22 - Line Thickness as Slider
+ - USER STORY 23 - Display button names when hover over buttons
+ 
+PART 2
+-------------------------------------------------------------
+ 
+  # Sprint 4 November 9th, 2017
+  # Sprint 4 Backlog UserStories go below
+  - BUG 2.1 - Architecture for drawing shapes can be improved
+  - BUG 2.2 - Architecture for handling shape modifiers can be improved 
+  - BUG 2.3 - Architecture behind Model is poor
+  - BUG 2.4 - Architecture behind creating shape instances is poor
+  - USER STORY 2.1 - Implement PolyLine
+  - USER STORY 2.2 - Implement Undo
+  - USER STORY 2.3 - Implement Redo
+  - USER STORY 2.4 - Select
+  - USER STORY 2.5 - Copy 
+  - USER STORY 2.6 - Paste
+  - USER STORY 2.7 - Emoji Stickers
+  - USER STORY 2.8 - Delete
+  - USER STORY 2.9 - About
+ 

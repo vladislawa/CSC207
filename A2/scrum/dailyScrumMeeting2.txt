@@ -1,0 +1,143 @@
+# Fill in, commit and push each day.
+# Group Member: Jinisha Shah
+
+Oct 23, 2017
+	Yesterday :A2 was not posted.
+	Today     :Edit members.txt and add our information.
+	Obstacles :Understanding how branch and master branch work.
+
+Oct 24, 2017
+	Yesterday :Added our information to members.txt.
+	Today     :Go through the assignment handout and divide tasks among group members.
+				Start working on Polyline class.
+	Obstacles :None.
+
+Oct 25, 2017
+	Yesterday :Made an outline of polyline class.
+	Today     :Finish polyline class and add polyline to the panel and model.
+	Obstacles :Making a polyline appear on panel when mouse dragged on panel.
+
+Oct 26, 2017
+	Yesterday :Finished polyline class, added polyline to model and started work on 
+				adding polyline to panel. However, faced an error.
+	Today     :No work to be done today as have to study for 207 midterm.
+	Obstacles :No obstacles.
+
+Oct 27, 2017
+	Yesterday : No work done.
+	Today     : No work to be done today because of the midterm.
+	Obstacles :No obstacles.
+
+Oct 28, 2017
+	Yesterday : No work was done.
+	Today     :Fix the bug "icons instead of text for the drawing mode selection", from 
+				the product backlog. Finish implementation of fixing bug "drawing selection 
+				mode not indicated".
+	Obstacles :Had difficulties figuring out how to connect the image name to the action 
+				listener, so that shape button draws the particular shape.
+
+Oct 29, 2017
+	Yesterday :Fixed bug "icons instead of text" and started implementing to fix bug
+				"drawing selection mode not indicated".
+	Today     :Finish fixing bug "drawing selection mode not indicated". Implement user
+				story quit anytime and new panel anytime.
+	Obstacles : How to implement new panel and how to keep the selected drawing mode
+				indicated until another button is clicked. The selected drawing mode does
+				not appear indicated after mouse is released.
+
+Oct 30, 2017
+	Yesterday :Finished user story quit anytime. Started implementation of user story new
+				panel anytime. Still trying to figure out last bit of selected drawing mode
+				not indicated.
+	Today     : Take a break. No work to be done.
+	Obstacles : No obstacles.
+
+Oct 31, 2017
+	Yesterday :No work was done.
+	Today     :Finish user story new panel. Try figuring out selected drawing mode not indicated.
+	Obstacles :How to implement new panel.
+
+Nov 1, 2017
+	Yesterday :Could not figure out new panel. So no work was pushed.
+	Today     :Try figuring out new panel and get some work done on remaining user stories.
+	Obstacles :No obstacles.
+	
+Nov 2, 2017
+	Yesterday :Made changes to bug 1(icons instead of text). Removed text for colour buttons.
+	Today     :Finish user story new panel and fix bug2.
+	Obstacles :How to unselect previous button when new button is pressed.
+	
+Nov 3, 2017
+	Yesterday :Implemented more of fixing bug 2. Added more icons for tools in the left tool bar.
+				Removed i=n.
+	Today     :Fix bug 2. Implement user stories eraser tool and text tool.
+	Obstacles : How to get the eraser tool to erase.
+
+Nov 4, 2017
+	Yesterday :Fixed bug2. Started work on eraser tool. Started text tool but decided to scrap
+				that tool.
+	Today     : Finish eraser tool and try fixing the polyline bug.
+	Obstacles : How to draw polyline when dragging mouse.
+
+Nov 5, 2017
+	Yesterday :Finished implementing eraser tool.
+	Today     :Do javadoc for all classes. Finalize and edit sprint and product backlog.
+	Obstacles :
+
+----------------------------- ASSIGNMENT 2 PART 2
+
+Nov 6, 2017
+	Yesterday :Finished Assignment 2 Part 1
+	Today     :Received Assignment 2 Part 2.
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday :Went through Assignment 2 Part 2 handout.
+	Today     :No work to be done.
+	Obstacles :No obstacles.
+	
+Nov 8, 2017
+	Yesterday :No work was done.
+	Today     :Divide user stories among group members and start implementation of user story.
+	Obstacles :No obstacles.
+	
+Nov 9, 2017
+	Yesterday :Divided user stories and I was assigned Bug 2.2.
+	Today     :Start implementation of bug 2.2.
+	Obstacles :No obstacles.
+
+Nov 10, 2017
+	Yesterday :Read through description of bug 2.2 and went through examples of command design patterns
+	Today     :Work on implementing bug 2.2.
+	Obstacles :Confused on how to begin fixing bug 2.2.
+
+Nov 11, 2017
+	Yesterday :Tried figuring out how to implement to fix bug 2.2. No work was pushed.
+	Today     :Continue to work on fixing bug 2.2.
+	Obstacles :Still confused on how to fix the bug.
+	
+Nov 12, 2017
+	Yesterday :Went through more examples on bug 2.2. No work was pushed.
+	Today     :Start working on bug 2.2 and finish most of it today.
+	Obstacles :Still confused on how to completely fix the bug, but slowly getting there.
+	
+Nov 13, 2017
+	Yesterday :Started implementation of fixing bug 2.2. Added a color and stroke class.
+	Today     :Finish bug 2.2 and start another extra user story. Probably from cut, copy and paste.
+	Obstacles :How to check if certain point is within a shape.
+	
+Nov 14, 2017
+	Yesterday :Fixed bug 2.2, but changed its way of implementation. Made a note for it in product backlog.
+				Started work on user story copy. Fixed eraser.
+	Today     : Implement user story "copy" and "paste".
+	Obstacles : How to correctly implement copy and paste.
+
+Nov 15, 2017
+	Yesterday : Finished my part for assignment 2 part 2.
+	Today     : Our group decides to resubmit. Fix parts of the code.
+	Obstacles : 
+	
+Nov 15, 2017
+	Yesterday : No work was done.
+	Today     : Submit assignment.
+	Obstacles : 

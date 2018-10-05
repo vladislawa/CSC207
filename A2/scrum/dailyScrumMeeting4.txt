@@ -1,0 +1,135 @@
+# Fill in, commit and push each day.
+<<<<<<< HEAD
+# Group Member: Ikechukwu Eze
+=======
+Oct 23, 2017
+	Yesterday :A2 was not posted.
+	Today     :Edit members.txt and read through assignment doc.
+	Obstacles :Understanding how the branch and master branch works.
+
+Oct 24, 2017
+	Yesterday :Edit members.txt and read through assignment doc.
+	Today     :Created a square class
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :Created a square class
+	Today     :Applied square to paint panel
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :Applied square to paint panel
+	Today     :Break no work done
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday :Break no work done
+	Today     :Break no work done
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday :Break no work done
+	Today     :Break no work done
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday :Break no work done
+	Today     :Did thickness of the shapes/lines and also made a button to be used for 
+	Obstacles :thickness is still bugged as it changes thickness of all what has been drawn
+			   instead of what the user is about to draw.
+
+Oct 30, 2017
+	Yesterday :thickness is still bugged as it changes thickness of all what has been drawn
+			   instead of what the user is about to draw.
+	Today     :Break no work done
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :Break no work done
+	Today     :Break no work done: studying for stats
+	Obstacles :
+
+Nov 1, 2017
+	Yesterday :Break no work done: studying for stats
+	Today     :Break no work done: studying for stats
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday :Break no work done: studying for stats
+	Today     :Fixed Circle bug so that it draws from the centre. Began working on fixing the bug on Squiggle.
+	Obstacles : Struggling to find why the strokes keep on connecting
+	
+Nov 3, 2017
+	Yesterday :Fixed Circle bug so that it draws from the centre. Began working on fixing the bug on Squiggle.
+	Today     :Made a squiggle class and fixed the bug on squiggle so the separate strokes dont connect.
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :Made a squiggle class and fixed the bug on squiggle so the separate strokes dont connect.
+	Today     :Fixed bug one new panel not clearing squiggle lines. Edited square boundary to behave better.
+	Obstacles :
+
+Nov 5, 2017
+	Yesterday :Fixed bug one new panel not clearing squiggle lines. Edited square boundary to behave better.
+	Today     :Tested to make sure the program was working as intended.
+	Obstacles :
+	
+Nov 6, 2017
+	Yesterday :Finished Assignment 2 Part 1
+	Today     :Received Assignment 2 Part 2.
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday :Received Assignment 2 Part 2.
+	Today     :No work done
+	Obstacles :
+	
+Nov 8, 2017
+	Yesterday :No work was done.
+	Today     :Divide user stories among group members and start implementation of user story.
+	Obstacles :
+	
+Nov 9, 2017
+	Yesterday :Divided user stories and I was assigned Bug 2.1.
+	Today     :Went through Assignment handout.
+	Obstacles :
+	
+Nov 10, 2017
+	Yesterday :Went through Assignment handout.
+	Today     :made a command interface
+	Obstacles :
+	
+Nov 11, 2017
+	Yesterday :made a command interface
+	Today     :began work on fixing bug 2.1. Made each shape class to implement the command interface.
+			   made it so that Paint Model only uses one array list that contains all the shapes that were added.
+			   Worked on trying to get Paint panel to also use one array list.
+	Obstacles :Trying to figure out how to get each shape class to use the command method, execute().
+			   Code is really bugged out and making paint panel use only one list is a struggle.
+			   
+Nov 12, 2017
+	Yesterday :began work on fixing bug 2.1. Made each shape class to implement the command interface.
+			   made it so that Paint Model only uses one array list that contains all the shapes that were added.
+			   Worked on trying to get Paint panel to also use one array list.
+	Today     :finished bug 2.1 and made our program use the command design pattern
+	Obstacles :
+	
+Nov 13, 2017
+	Yesterday : finished bug 2.1 and made our program use the command design pattern
+	Today     : Started and almost done working on the polyline bug
+	Obstacles : lines dont connect
+	
+Nov 14, 2017
+	Yesterday : Started and almost done working on the polyline bug
+	Today     : Fixed polyline to work properly as intended and added java doc
+	Obstacles : 
+	
+Nov 15, 2017
+	Yesterday : Fixed polyline to work properly as intended and added java doc
+	Today     : No work done
+	Obstacles : 
+	
+Nov 16, 2017
+	Yesterday : No work done
+	Today     : No work done
+	Obstacles :
